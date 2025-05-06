@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **atteq7866@gmail.com**
 
-- 📄 Know about my experiences [https://atteq-portfolio.netlify.app/](https://atteq-portfolio.netlify.app/)
+- 📄 Know about my experiences [https://atteq-portfolio.vercel.app/](https://atteq-portfolio.vercel.app/)
 
 - ⚡ Fun fact **As a tech geek, I'm always exploring the latest advancements in technology, from tinkering with new gadgets to tackling coding challenges with enthusiasm.**
 
