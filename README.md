@@ -16,13 +16,13 @@
 
 - 📫 How to reach me **atteq7866@gmail.com**
 
-- 📄 Know about my experiences [https://atteq-portfolio.vercel.app/](https://atteq-portfolio.vercel.app/)
+- 📄 Know about my experiences [https://heyatteq.site](https://heyatteq.site)
 
 - ⚡ Fun fact **As a tech geek, I'm always exploring the latest advancements in technology, from tinkering with new gadgets to tackling coding challenges with enthusiasm.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-atteq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-atteq" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammadatteq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammadatteq" height="30" width="40" /></a>
 <a href="https://instagram.com/atteq._.7869" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atteq._.7869" height="30" width="40" /></a>
 </p>
 
