@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **React, Python**
 
-- 📫 How to reach me **atteq7866@gmail.com**
+- 📫 How to reach me **contact@heyatteq.site**
 
 - 📄 Know about my experiences [https://heyatteq.site](https://heyatteq.site)
 
