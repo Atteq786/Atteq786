@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **contact@heyatteq.site**
 
-- 📄 Know about my experiences [heyatteq.site](heyatteq.site)
+- 📄 Know about my experiences [https://heyatteq.site](https://heyatteq.site)
 
 - ⚡ Fun fact **As a tech geek, I'm always exploring the latest advancements in technology, from tinkering with new gadgets to tackling coding challenges with enthusiasm.**
 
